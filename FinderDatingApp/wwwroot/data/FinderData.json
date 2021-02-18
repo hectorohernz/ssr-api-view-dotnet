@@ -1,0 +1,35 @@
+﻿[
+  {
+    "id": 1,
+    "email": "rswayte0@diigo.com",
+    "gender": "Non-binary",
+    "fullName": "Ryann Swayte",
+    "jobTitle": "Design Engineer",
+    "quote": "Down-sized human-resource benchmark",
+    "race": "Fijian",
+    "job": "Dablist",
+    "img": "https://images.unsplash.com/photo-1587778082149-bd5b1bf5d3fa?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8MXw5NDUyNDk0fHxlbnwwfHx8&auto=format&fit=crop&w=200&q=60"
+  },
+  {
+    "id": 2,
+    "email": "smcilory1@marketwatch.com",
+    "gender": "Female",
+    "fullName": "Shina McIlory",
+    "jobTitle": "Help Desk Technician",
+    "quote": "Innovative 24/7 interface",
+    "race": "Nicaraguan",
+    "job": "Twimm",
+    "img": "https://images.unsplash.com/photo-1595871465907-19020bb76ad1?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8Mnw5NDUyNDk0fHxlbnwwfHx8&auto=format&fit=crop&w=300&q=60 300w"
+  },
+  {
+    "id": 3,
+    "email": "bpeaker2@auda.org.au",
+    "gender": "Genderfluid",
+    "fullName": "Beckie Peaker",
+    "jobTitle": "Software Test Engineer II",
+    "quote": "Multi-lateral interactive methodology",
+    "race": "Alaska Native",
+    "job": "Aimbu",
+    "img": "https://images.unsplash.com/photo-1593694995486-a1b4de93814a?ixlib=rb-1.2.1&ixid=MXwxMjA3fDB8MHxjb2xsZWN0aW9uLXBhZ2V8M3w5NDUyNDk0fHxlbnwwfHx8&auto=format&fit=crop&w=300&q=60%20300w"
+  }
+]
